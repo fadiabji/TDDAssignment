@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TDDAssignment", "TDDAssignment\TDDAssignment.csproj", "{A7A4503C-D45F-4F9E-9279-B05DEDA79176}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TDDAssignment_Test", "TDDAssignment_Test\TDDAssignment_Test.csproj", "{909682CB-418F-4429-A701-DF769A197877}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A7A4503C-D45F-4F9E-9279-B05DEDA79176}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7A4503C-D45F-4F9E-9279-B05DEDA79176}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7A4503C-D45F-4F9E-9279-B05DEDA79176}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7A4503C-D45F-4F9E-9279-B05DEDA79176}.Release|Any CPU.Build.0 = Release|Any CPU
+		{909682CB-418F-4429-A701-DF769A197877}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{909682CB-418F-4429-A701-DF769A197877}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{909682CB-418F-4429-A701-DF769A197877}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{909682CB-418F-4429-A701-DF769A197877}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {561B2550-28A6-4943-9BB0-251A32A7C081}
+	EndGlobalSection
+EndGlobal
